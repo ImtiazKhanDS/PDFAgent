@@ -20,3 +20,4 @@ Sample Questions :
 Demo Image of the Chat
 
 ![Demo image](demo.png)
+<video src="demo.mov" type="video/mov" controls = "controls" style="max-width: 730px;"></video>
