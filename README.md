@@ -19,4 +19,4 @@ Sample Questions :
 
 Demo Image of the Chat
 
-![Demo image](demo.jif)
+![Demo image](demo.gif)
